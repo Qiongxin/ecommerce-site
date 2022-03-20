@@ -1,0 +1,9 @@
+{{extend './layout.art'}}
+{{block 'title'}}{{title}}{{/block}}
+
+{{block 'head'}}
+{{/block}}
+
+{{block 'content'}}
+<p>This is just a 404 page.</p>
+{{/block}}
